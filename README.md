@@ -1,5 +1,7 @@
 ## Zio nRF52840 BLE Dev Board
 
+This board is available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-nrf52840-Dev-Board)
+
 ![nRF52840 Board](/nrf52840.JPG)
 
 This is a development and breakout board based on nRF52840 SoC - a powerful combination of ARM Cortex-M4 CPU and 2.4GHz Bluetooth radio. With the nRF52840 at the heart of your project, you’ll be presented with a seemingly endless list of project-possibilities in an incredibly small package.
