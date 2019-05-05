@@ -1,6 +1,6 @@
 ## Zio nRF52840 BLE Dev Board
 
-This board is available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-nrf52840-Dev-Board)
+> This board is available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-nrf52840-Dev-Board)
 
 ![nRF52840 Board](/nrf52840.png)
 
